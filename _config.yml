@@ -150,8 +150,9 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
+# The base URL of your site (required for GitHub *project* Pages, e.g. /repo-name).
+# For local preview at the site root, run: bundle exec jekyll serve --baseurl ""
+baseurl: "/aggregatecognizancev2"
 
 # ------------ The following options are not recommended to be modified ------------------
 
