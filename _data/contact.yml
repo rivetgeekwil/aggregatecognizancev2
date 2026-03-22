@@ -1,16 +1,32 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
 - type: mastodon
   icon: 'fab fa-mastodon'
   url: 'https://dice.camp/web/@rivetgeek'
 
+ # open link in current tab
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/rivetgeek.aggregatecognizance.com'
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
+  noblank: true
+- type: linktree
+  url: 'https://linktr.ee/rivetgeek' 
+  icon: 'fa-brands fa-linktree'
+  url: 'https://linktr.ee/rivetgeek'                   # Fill with your Bluesky profile link
+- type: mastodon
+  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  url:  'https://dice.camp/@rivetgeek'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 - type: rss
   icon: "fas fa-rss"
   noblank: true
