@@ -1,0 +1,38 @@
+---
+title: "What's Up With Backstories?"
+description: "A discussion about everyone's favorite topic"
+date: 2024-09-24 00:00:00-0700
+categories: [Meta]
+tags: [Characters]
+image:
+  path: backstory.webp
+media_subpath: /assets/img/posts/backstories
+---
+
+## A Short History of Backstories
+Character backstories have existed for as long as tabletop roleplaying games have. Someone, at some point, decided to give their fighter or magic user some detail about who they are, where they are from, etc. Eventually, someone blossomed theirs out to a detailed accounting of their character's life so far, begetting the trope of the player with pages and pages of backstory. 
+
+Some amount of backstory generation was baked into certain games. Traveller's career tables are one of the earliest examples, if not _the_ earliest. Other games such as _Mekton_ and _Cyberpunk_ (both from R. Talsorian Games) approached it differently, with tables for mundane things like social status alongside eye and hair color, rivals, romance, and major events. In the late 80s, the _Central Casting_ books (one for fantasy, one for modern day, and one for science fiction) by Jennell Jaquays combined the random generation method with the highly detailed backstory, allowing players to roll on dozens of tables and fill out entire pages with interesting (and sometimes incongruent) details.
+
+This sort of thing was the "state of the art" for backstories for the longest time. You either lovingly crafted your character's backstory or randomly rolled on a bunch of tables (or, most likely, combined the approaches). The amount of backstory often varied greatly from player to player, along with the amount of usable backstory. There wasn't much support for GMs to use the backstories or ensure that they contained anything usable.
+
+Then, in the post-Forge era, there was a shift in methods of creating character histories toward more collaborative approaches, allowing the inclusion of the other players and their PCs.[^1] One example of this is in _Fate Core_, where in Phase Two of character creation you establish where the other PCs factored into your past. In the _Smallville_ RPG, there was a method called the Pathways system. As you move through the phases, the choices you make allow you to establish relationships with PCs and NPCs and add locations and other elements to a collaborative "relationship map" created by all players. _Backstory Cards_  cards were released  (which I wrote about [here]({{<relref "post/all-in-the-cards">}})), a card deck including many in-depth prompts for players to answer about their characters, other characters, and the setting as a whole. The answers created links between NPCs, events, and locations to generate a relationship map. Other games, particularly PbtA-style games, likewise had question prompts that could be answered about other characters (sometimes long after character creation). 
+
+Since then, additional decks such as _Decuma_, the _Session Zero_ deck, and _The Ultimate RPG Campfire Deck_ (my latest acquisition) have come out. There are also books like James D'Amato's _Ultimate RPG Character Backstory Guide_ — which has an expanded edition covering more genres — and a plethora of smaller publications, blog posts, etc., about crafting a good character backstory.
+
+## How Much is Too Much?
+My bias will come out, so I'll level set: _whatever method of backstory creation and the level of detail you prefer, as a player or a GM, is fine_. Whatever works for you. At the same time, I want to give my perspective and experience, which has evolved from uber-detailed backstories to my current preference, because it's made a big difference in my games.
+
+Detailed backstories are often touted as creating a well of material that GMs can draw from for incorporating the PCs into their game, providing hooks and levers the GM can utilize. However, the quality and quantity of backstory can vary greatly from player to player. This can lead to a player who writes lengthy backstories getting the lion's share of the limelight compared to a player who only has a short sentence for theirs. It also can create pressure on players to come up with that lengthy backstory in the first place even if they're not so inclined, and can create anxiety when they can't. Plus, it burdens the GM to 1) read the backstories of every PC and 2) figure out how to fold some or all of it into their game. When you have five players who are handing you a couple thousand words each, _that's a lot_. This can lead to friction when a player who thinks they've written an amazing backstory winds up having it get Swiss-cheesed or rejected outright by a GM who doesn't think it's appropriate for the game they want to play, or ignored because the GM never asked for it.
+
+## Collaboration is Key
+I'll come right out and say that I am unlikely to do more than skim a five-page backstory that's handed to me, and I will be upfront about it. Just like I don't recommend creating characters before all of the players and myself can sit down for session zero, I don't recommend having a complex backstory written out beforehand. That doesn't mean not having a character concept or an inkling of what you want the character's background to be before getting together with everyone else. Remember that the more inflexible you are regarding your character's history, the more likely you are to run into friction between the other players or the GM, which can set you up for disappointment.
+
+The collaborative methods of creating character history have had an enormous positive impact on the games I run. I recommend that everyone try them at least once — whether it's a game that bakes it in, using one of the card decks I've mentioned, or some other method. If you don't like it for one reason or another, at least you tried it. Beyond involving everyone at the table and creating investment and engagement, I've found collaboration creates a more consistent quality and quantity of backstory for a game. _More importantly_, using prompts can help players who might struggle with creating backstories and inspire them to consider things they might not normally. That player who is always making the same character for every game? Using prompts can help put some variation on that character, if not break them out of it entirely. You can still have a solid concept for your character — and even have things about them that you wouldn't change no matter what — and use collaborative methods. You might be surprised how they strengthen your concept and backstory by introducing things you hadn't thought of.
+
+## Stay Flexible
+Another thing I recommend is to not make your backstory so complete or tightly knit that there's no room for adding to it — not only during character creation but also during play. Flashbacks are excellent ways to do this. Some games like _Blades in the Dark_, even have mechanics for flashbacks. Games with defined downtime or growth scenes and mechanics, such as _Tales of Xadia_ and _Avatar Legends_ provide opportunities to do this. Having players draw a card during downtime or a quiet scene in a game and answer the prompt can help flesh out their characters more and inspire roleplaying between them. I plan on doing this in a game I'm going to start running, using _The Ultimate RPG Campfire Deck_.
+
+In short, hold loosely to your backstories. Put down stakes for things you want in your character's history, but be open to including new things — especially those suggested by others — and your character will be better for it. And if it doesn't work for some reason, that's cool too.
+
+[^1]: There are likely earlier examples of these collaborative approaches, but I'm unaware of them.
