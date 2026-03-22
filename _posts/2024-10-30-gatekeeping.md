@@ -5,7 +5,7 @@ date: 2024-10-30 00:00:00-0700
 categories: [Meta]
 tags: [playing]
 image:
-  path: exclusion.jpg
+  path: exclusion.png
 media_subpath: /assets/img/posts/gatekeeping
 ---
 

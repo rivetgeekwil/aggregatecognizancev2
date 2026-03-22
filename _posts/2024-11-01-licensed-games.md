@@ -5,7 +5,7 @@ date: 2024-11-01 00:00:00-0700
 categories: [Meta]
 tags: [games]
 image:
-  path: atla-tox.jpg
+  path: atla-tox.png
 media_subpath: /assets/img/posts/licensed-games
 ---
 
