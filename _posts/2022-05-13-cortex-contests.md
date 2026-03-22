@@ -1,6 +1,6 @@
 ---
 title: Cortex Contests
-description: "What does "get what you want" mean?"
+description: 'What does "get what you want" mean?'
 date: 2022-05-13
 categories: [Cortex]
 tags: [contests]

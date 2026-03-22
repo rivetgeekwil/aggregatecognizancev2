@@ -9,7 +9,7 @@ image:
 media_subpath: /assets/img/posts/tox-role-templates
 ---
 
-A couple days ago I posted about the [Tribes in the Dark Role templates]({{<relref "post/tribes-in-the-dark-role-templates">}}) and I mentioned I had created templates for Tales of Xadia. I'm linking to them here. Like the TitD templates these haven't been tested, but I already had run a few games in Role and I followed the same pattern with these so I'm confident they'll work well.
+A couple days ago I posted about the [Tribes in the Dark Role templates]({% post_url 2024-07-01-titd-role-templates %}) and I mentioned I had created templates for Tales of Xadia. I'm linking to them here. Like the TitD templates these haven't been tested, but I already had run a few games in Role and I followed the same pattern with these so I'm confident they'll work well.
 
 ## Blank Journals
 * [Tales of Xadia Blank Character Journal](https://app.playrole.com/sheet-templates/f16fa62c6414-tales-of-xadia-blank-character-journal/save)

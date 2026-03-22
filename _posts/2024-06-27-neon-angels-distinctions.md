@@ -15,7 +15,7 @@ I've been working on a new Cortex Prime build, _Neon Angels_, which draws inspir
 My first go around was using freeform Distinctions with question prompts to help flesh them out. I quickly realized that the Distinctions were weak and at least one overlapped with using Roles too much. I thought I could make them work, possibly with a Pathways-style setup, so I started on a hexflower-inspired system. I redid the hexflower several times to figure out the best way to organize it, but in the end, it turned out to be more work than I wanted to put in.
 
 ## To Tales of Xadia-style Distinctions
-Last week I posted how [Tales of Xadia Distinctions]({{<relref "post/tales-of-xadia-distinctions">}}) work.​ These Distinctions are designed to guide player choices without being overly restrictive. As I delved back into _Tales of Xadia_, I envisioned a similar system for _Neon Angels_, drawing from the worldbuilding I had already done.
+Last week I posted how [Tales of Xadia Distinctions]({% post_url 2024-06-20-tox-distinctions %}) work.​ These Distinctions are designed to guide player choices without being overly restrictive. As I delved back into _Tales of Xadia_, I envisioned a similar system for _Neon Angels_, drawing from the worldbuilding I had already done.
 
 The first thing was to remove Roles as a trait set and replace it with Aptitudes, a skill-like trait set from another of my builds. Then, I tweaked my original list of Roles and backgrounds that PCs could have. This gave me three Distinctions:
 

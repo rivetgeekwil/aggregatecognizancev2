@@ -9,7 +9,7 @@ image:
 media_subpath: /assets/img/posts/titd-design-Cell
 ---
 
-Like many _Forged in the Dark_ games, _Tribes in the Dark_ features a sheet and mechanics for the group in which the player characters find themselves. This is, naturally, a **Fallen Cell**—the quasi-political unit and found family that the Fallen gravitate towards forming. Along with the [playbooks]({{<relref "post/tribes-in-the-dark-design-playbooks">}}), coming up with the dynamics of how Cells work was a lot of work and something I'm pretty proud of. It was one of the things that I felt was sorely missing from earlier editions of _Tribe 8_ and was one of the reasons we chose _Forged in the Dark_ for the new version.
+Like many _Forged in the Dark_ games, _Tribes in the Dark_ features a sheet and mechanics for the group in which the player characters find themselves. This is, naturally, a **Fallen Cell**—the quasi-political unit and found family that the Fallen gravitate towards forming. Along with the [playbooks]({% post_url 2022-06-13-titd-design-playbooks %}), coming up with the dynamics of how Cells work was a lot of work and something I'm pretty proud of. It was one of the things that I felt was sorely missing from earlier editions of _Tribe 8_ and was one of the reasons we chose _Forged in the Dark_ for the new version.
 
 There are a few significant differences between how Cells function and, for example, crews in _Blades in the Dark_. The most important differences are claims/turf, special abilities, and tier.
 
