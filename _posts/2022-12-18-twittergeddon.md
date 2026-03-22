@@ -13,6 +13,6 @@ On December 12th, I removed all of the tweets I could without resorting to a pai
 
 And wow, a few days later it got a lot worse. I thought after Trump was elected that things couldn't get any weirder, but I've been consistently proven wrong. I'm convinced that Twitter is absolutely fucked and there's no coming back from it. If you're a person who is impacted by Twitter's degradation under Musk, I really empathize. There are way too many already being negatively affectd by all this. None of it is going to get better so long as Musk owns the company.
 
-There are links to various socials on this blog, as well as some additional links on my [linktree](http://linktr.ee/rivetgeek). [dice.camp](https://dice.camp/@rivetgeek) is the place I'm most active. A little-known fact is that Mastodon profiles have [RSS Feeds](https://dice.camp/@rivetgeek.rss) feeds.
+There are links to various socials on this blog, as well as some additional links on my [linktree](https://linktr.ee/rivetgeek). [dice.camp](https://dice.camp/@rivetgeek) is the place I'm most active. A little-known fact is that Mastodon profiles have [RSS Feeds](https://dice.camp/@rivetgeek.rss) feeds.
 
 Be safe everyone. It's a crazy time right now.

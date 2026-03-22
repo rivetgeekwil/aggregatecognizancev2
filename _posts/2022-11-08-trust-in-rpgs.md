@@ -19,7 +19,7 @@ In the past, the game designer and writer S. John Ross have used the terms high 
 Eventually, I did dig up a handful of places where trust gets mentioned.
 
 * [High Trust RPGs](https://deconstructinginfinity.wordpress.com/2006/12/06/high-trust-rpgs/)
-* [If You've Played Tabletop RPGs](http://sgcodex.wikidot.com/if-you-ve-played-tabletop-rpgs)
+* [If You've Played Tabletop RPGs](https://sgcodex.wikidot.com/if-you-ve-played-tabletop-rpgs)
 * [The Trust Spectrum](https://www.gamedeveloper.com/design/the-trust-spectrum)
 
 The first one has this to say, and that's it:

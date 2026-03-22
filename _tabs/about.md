@@ -8,5 +8,5 @@ order: 4
 A fresh start seems the best way to accomplish this—both the blog platform and the subject matter. In the past few years, a lot has changed for me personally, in tabletop RPGs, and the world in general. Aggregate Cognizance’s focus will mainly be on fiction-first and narrative-oriented games and concepts, but hopefully there will be useful subjects for everyone.
 
 #### Credits
-* Category icons are from [https://game-icons.net/](Game-Icons.net) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+* Category icons are from [Game-Icons.net](https://game-icons.net/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 * Some images were generated using Midjourney

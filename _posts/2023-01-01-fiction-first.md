@@ -22,7 +22,7 @@ At some point, it became a common belief that all of a game's mechanics needed t
 ## So Then, What Isn't Fiction First?
 Like many things regarding RPGS, fiction first is a spectrum versus a dichotomy. Most games will have rules or processes that are more fiction first than others, and some that aren't at all. What makes me consider one game to be _more_ fiction first than another game is how seamlessly play can move the conversation from pure fiction to the mechanics and back again. In some games — GURPS, HERO, and Storyteller are examples for me — there is always a "record scratch" moment when we have to engage the mechanics. It's a lot like pulling the emergency brake on a train. In extreme cases, the mechanics actively work against or contradict the established fiction. 
 
-I have an image illustrating how I view this flow between fiction and mechanics. I downloaded it from, I believe, a thread on [Vincent Baker's blog](http://www.lumpley.com/), but I've lost the exact source, and Vincent doesn't know either. It may have been created by Ben Lehman, the creator of Polaris and Bliss Stage. It's the header image of this post, but here is the full image:
+I have an image illustrating how I view this flow between fiction and mechanics. I downloaded it from, I believe, a thread on [Vincent Baker's blog](https://lumpley.com/), but I've lost the exact source, and Vincent doesn't know either. It may have been created by Ben Lehman, the creator of Polaris and Bliss Stage. It's the header image of this post, but here is the full image:
 
  ![The Conversation](CWgUKbQ.png)
 
