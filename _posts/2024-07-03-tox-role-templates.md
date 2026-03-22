@@ -5,7 +5,7 @@ date: 2024-07-03 00:00:00-0700
 categories: [ToX]
 tags: [Cortex, VTT]
 image:
-  path: Tox.png
+  path: tox.png
 media_subpath: /assets/img/posts/tox-role-templates
 ---
 

@@ -3,10 +3,6 @@
 #- type: github
 #  icon: "fab fa-github"
 
-- type: mastodon
-  icon: 'fab fa-mastodon'
-  url: 'https://dice.camp/web/@rivetgeek'
-
  # open link in current tab
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"

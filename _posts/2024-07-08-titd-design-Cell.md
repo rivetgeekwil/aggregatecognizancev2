@@ -5,8 +5,8 @@ date: 2024-07-08 00:00:00-0700
 categories: [TitD]
 tags: [Cell]
 image:
-  path: Cell-sheet.png
-media_subpath: /assets/img/posts/titd-design-Cell
+  path: cell-sheet.png
+media_subpath: /assets/img/posts/titd-design-cell
 ---
 
 Like many _Forged in the Dark_ games, _Tribes in the Dark_ features a sheet and mechanics for the group in which the player characters find themselves. This is, naturally, a **Fallen Cell**—the quasi-political unit and found family that the Fallen gravitate towards forming. Along with the [playbooks]({% post_url 2022-06-13-titd-design-playbooks %}), coming up with the dynamics of how Cells work was a lot of work and something I'm pretty proud of. It was one of the things that I felt was sorely missing from earlier editions of _Tribe 8_ and was one of the reasons we chose _Forged in the Dark_ for the new version.

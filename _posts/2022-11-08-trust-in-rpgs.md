@@ -5,7 +5,7 @@ date: 2022-11-08 00:00:00-0700
 categories: [Theory]
 tags: [trust]
 image:
-  path: rivetgeek_trust_in_games_9d29f9e2-25c8-42c3-8559-dfee5c773ee9.png
+  path: trust.png
 media_subpath: /assets/img/posts/trust-in-rpgs
 ---
 

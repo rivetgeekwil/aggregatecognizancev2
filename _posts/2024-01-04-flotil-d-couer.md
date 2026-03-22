@@ -4,9 +4,6 @@ description: An alternate Dahlian caravan for Tribe 8
 date: 2024-01-04 00:00:00-0700
 categories: [T8]
 tags: [lore24]
-image:
-  path: flotildcouer.png
-media_subpath: /assets/img/posts/flotil-d-couer
 ---
 
 # Introduction
