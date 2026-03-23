@@ -39,8 +39,13 @@ layout: page
         class="card-header d-flex justify-content-between hide-border-bottom"
       >
         <span class="ms-2">
-          {% if site.data.category_icons[category_name] %}
-            <i class="{{ site.data.category_icons[category_name] }} fa-fw"></i>
+          {% assign _icon = site.data.category_icons[category_name] %}
+          {% if _icon %}
+            {% if _icon contains '/' %}
+              <img src="{{ _icon | relative_url }}" alt="{{ category_name }}" class="category-icon">
+            {% else %}
+              <i class="{{ _icon }} fa-fw"></i>
+            {% endif %}
           {% else %}
             <i class="far fa-folder{% if sub_categories_size > 0 %}-open{% endif %} fa-fw"></i>
           {% endif %}
@@ -108,8 +113,13 @@ layout: page
           <ul class="list-group">
             {% for sub_category in sub_categories %}
               <li class="list-group-item">
-                {% if site.data.category_icons[sub_category] %}
-                  <i class="{{ site.data.category_icons[sub_category] }} fa-fw"></i>
+                {% assign _sub_icon = site.data.category_icons[sub_category] %}
+                {% if _sub_icon %}
+                  {% if _sub_icon contains '/' %}
+                    <img src="{{ _sub_icon | relative_url }}" alt="{{ sub_category }}" class="category-icon">
+                  {% else %}
+                    <i class="{{ _sub_icon }} fa-fw"></i>
+                  {% endif %}
                 {% else %}
                   <i class="far fa-folder fa-fw"></i>
                 {% endif %}

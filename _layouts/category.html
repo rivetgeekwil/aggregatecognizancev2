@@ -7,8 +7,13 @@ layout: page
 
 <div id="page-category">
   <h1 class="ps-lg-2">
-    {% if site.data.category_icons[page.title] %}
-      <i class="{{ site.data.category_icons[page.title] }} fa-fw text-muted"></i>
+    {% assign _icon = site.data.category_icons[page.title] %}
+    {% if _icon %}
+      {% if _icon contains '/' %}
+        <img src="{{ _icon | relative_url }}" alt="{{ page.title }}" class="category-icon-lg">
+      {% else %}
+        <i class="{{ _icon }} fa-fw text-muted"></i>
+      {% endif %}
     {% else %}
       <i class="far fa-folder-open fa-fw text-muted"></i>
     {% endif %}

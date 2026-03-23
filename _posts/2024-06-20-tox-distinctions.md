@@ -1,8 +1,8 @@
 ---
 title: The Brilliance of Tales of Xadia Distinctions
-description: A brief note on how ToX Distinctions are put together
+description: A brief note on how Tales of Xadia Distinctions are constructed
 date: 2024-06-20 00:00:00-0700
-categories: [ToX]
+categories: [TalesOfXadia]
 tags: [Cortex, Distinctions]
 image:
   path: tox.png

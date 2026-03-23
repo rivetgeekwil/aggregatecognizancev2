@@ -2,7 +2,7 @@
 title: Tribe Alphabets
 description: "Wait, there's alphabets?"
 date: 2024-06-24 00:00:00-0700
-categories: [T8]
+categories: [TitD]
 tags: [lore]
 image:
   path: tablets.png
