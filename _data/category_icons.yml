@@ -1,0 +1,14 @@
+# Map category names to Font Awesome icon classes
+# Browse icons at https://fontawesome.com/search?o=r&m=free
+#
+# Format: category_name: "fa-prefix fa-icon-name"
+# Prefixes: fas (solid), far (regular), fab (brands)
+
+Cortex: "fas fa-atom"
+GMing: "fas fa-dice-d20"
+Discourse: "fas fa-comments"
+T8: "fas fa-"
+Theory: "fas fa-lightbulb"
+TitD: "fas fa-dungeon"
+ToX: "fas fa-dragon"
+Tools: "fas fa-tools"

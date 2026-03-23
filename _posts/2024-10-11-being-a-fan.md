@@ -2,7 +2,7 @@
 title: Being a Fan of One Another
 description: Getting the best TTRPG experience through collaboration
 date: 2024-10-11 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [playing]
 image:
   path: players.png

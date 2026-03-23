@@ -2,7 +2,7 @@
 title: "What's Up With Backstories?"
 description: "A discussion about everyone's favorite topic"
 date: 2024-09-24 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [Characters]
 image:
   path: backstory.webp

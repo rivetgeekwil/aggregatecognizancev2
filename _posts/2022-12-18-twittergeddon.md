@@ -2,7 +2,7 @@
 title: Twittergeddon
 description: Bye-bye birdsite
 date: 2022-12-18 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [soapbox]
 image:
   path: twittergeddon.png

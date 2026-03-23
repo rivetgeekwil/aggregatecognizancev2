@@ -2,7 +2,7 @@
 title: Storygames vs RPGs
 description: Are they the same thing?
 date: 2022-09-20 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [soapbox]
 image:
   path: 38108459584_1d65db8424_o.jpg

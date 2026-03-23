@@ -2,7 +2,7 @@
 title: Licensed Games Are Great
 description: And a few reasons why
 date: 2024-11-01 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [games]
 image:
   path: atla-tox.png

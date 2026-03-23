@@ -2,7 +2,7 @@
 title: "When Gatekeeping Isn't Bad"
 description: A few thoughts on gatekeeping
 date: 2024-10-30 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [playing]
 image:
   path: exclusion.png

@@ -2,7 +2,7 @@
 title: Narrative Gaming Basics
 description: The basic concepts of narrative-style games
 date: 2022-05-30
-categories: [Cortex, Meta]
+categories: [Cortex]
 tags: [narrative gaming]
 image:
   path: 13067014944_1638e4c067_b.jpg

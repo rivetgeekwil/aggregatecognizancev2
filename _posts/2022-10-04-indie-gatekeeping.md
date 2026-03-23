@@ -2,7 +2,7 @@
 title: Indie Gatekeeping
 description: "Why we can't have nice things"
 date: 2022-10-04 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [soapbox]
 image:
   path: gatekeeper.jpg

@@ -2,7 +2,7 @@
 title: "Aren't All RPGs Fiction First?"
 description: And what makes them not?
 date: 2023-01-01 00:00:00-0700
-categories: [Meta]
+categories: [Discourse]
 tags: [fiction first]
 image:
   path: CWgUKbQ2.png
