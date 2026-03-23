@@ -9,4 +9,3 @@ A fresh start seems the best way to accomplish this—both the blog platform and
 
 #### Credits
 * Category icons are from [Game-Icons.net](https://game-icons.net/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-* Some images were generated using Midjourney
