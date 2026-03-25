@@ -2,7 +2,7 @@
 title: "Tribes in the Dark Design: Playbooks"
 description: Design notes on playbooks in Tribes in the Dark
 date: 2022-06-13 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [playbooks]
 image:
   path: Tribe_8_Rulebook_1st_Edition_180.png
