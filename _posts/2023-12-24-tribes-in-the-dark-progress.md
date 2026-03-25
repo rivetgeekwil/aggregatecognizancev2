@@ -2,7 +2,7 @@
 title: Tribes in the Dark Progress Update
 description: "It's happening!"
 date: 2023-12-24 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [updates]
 image:
   path: 1500x500.jpg
