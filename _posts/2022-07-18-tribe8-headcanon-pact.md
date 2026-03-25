@@ -2,7 +2,7 @@
 title: "Tribe 8 Headcanon: The Pact of the Dome"
 description: Personal canon for the Pact of the Dome
 date: 2022-07-18 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [headcanon, Tribe 8 Headcanon]
 image:
   path: Joshua.png
