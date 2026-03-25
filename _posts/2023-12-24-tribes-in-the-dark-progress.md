@@ -24,8 +24,6 @@ Forcing you to watch your plight.</br>
 My how your flesh truly sings</br>
 As I receive my gift tonight!
 
- ![S'klas image of hooded figure in torn red robes with large eyes and tentacles for a beard. Image generated in Midjourney](sklas.png)
-
 S'klas is a Z'bri Joh'an living in the Skyrealms near Bazaar. Once a Melanis Lord, it was driven out of Hl'Kar because its experiments and penchant for abducting Tribal children threatened the Pact of the Dome. S'klas is convinced children hold the secret to opening the Fold because of their innocence and closeness to the River of Dream. Its experiments revealed a long-lost collective memory of a mythical figure who visited children on a special winter night every year, passing out gifts to those who behaved and leaving an item showing his displeasure for those who hadn't. S'klas has taken on the role of this figure, corrupting it in a fashion only a Z'bri could.
 
 S'klas, like most Melanis, conceals its form in robes — in its case, glistening exposed muscle and sinew. Tentacles often emerge from the folds and openings of the robes on their own accord. Within its cowl are a pair of inhuman eyes and a "beard" of writhing tentacles. S'klas surrounds itself with diminutive, twisted Serfs who assist it in luring children back to his lair. 
