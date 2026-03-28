@@ -2,7 +2,7 @@
 title: Tribes in the Dark Progress Update
 description: "It's happening!"
 date: 2023-12-24 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [updates]
 image:
   path: 1500x500.jpg
@@ -23,8 +23,6 @@ Oh I really want to know!</br>
 Forcing you to watch your plight.</br>
 My how your flesh truly sings</br>
 As I receive my gift tonight!
-
- ![S'klas image of hooded figure in torn red robes with large eyes and tentacles for a beard. Image generated in Midjourney](sklas.png)
 
 S'klas is a Z'bri Joh'an living in the Skyrealms near Bazaar. Once a Melanis Lord, it was driven out of Hl'Kar because its experiments and penchant for abducting Tribal children threatened the Pact of the Dome. S'klas is convinced children hold the secret to opening the Fold because of their innocence and closeness to the River of Dream. Its experiments revealed a long-lost collective memory of a mythical figure who visited children on a special winter night every year, passing out gifts to those who behaved and leaving an item showing his displeasure for those who hadn't. S'klas has taken on the role of this figure, corrupting it in a fashion only a Z'bri could.
 

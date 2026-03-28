@@ -2,7 +2,7 @@
 title: "Tribes in the Dark Design: The Cell"
 description: Design notes on the Cell in Tribes in the Dark
 date: 2024-07-08 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [Cell]
 image:
   path: cell-sheet.png

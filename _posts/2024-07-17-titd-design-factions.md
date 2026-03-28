@@ -2,7 +2,7 @@
 title: "Tribes in the Dark Design: Factions"
 description: Design notes on factions in Tribes in the Dark
 date: 2024-07-17 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [Factions]
 image:
   path: factions.png

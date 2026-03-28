@@ -2,7 +2,7 @@
 title: Tribes in the Dark Update
 description: "Update on where we're at with Tribes in the Dark?"
 date: 2024-06-17 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [updates]
 image:
   path: titd-banner-1500x500.jpg

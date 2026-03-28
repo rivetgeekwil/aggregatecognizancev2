@@ -2,7 +2,7 @@
 title: Tribes in the Dark Role Templates
 description: Templates for the Role VTT
 date: 2024-07-01 00:00:00-0700
-categories: [TitD]
+categories: [Tribes in the Dark]
 tags: [VTT]
 image:
   path: titd-banner-1500x500.jpg
