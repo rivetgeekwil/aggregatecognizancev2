@@ -3,18 +3,18 @@
 #
 # Font Awesome format: "fa-prefix fa-icon-name"
 #   Prefixes: fas (solid), far (regular), fab (brands)
-# Image format: "/assets/img/favicons/filename.png"
+# Image format: "/assets/img/categories/filename.png"
 #   Any value containing "/" is rendered as an <img> tag
 
-Cortex: "/assets/img/favicons/cortex.png"
-Design: "/assets/img/favicons/pencil-ruler.png"
-Discourse: "/assets/img/favicons/conversation.png"
-General: "/assets/img/favicons/rulebook.png"
-GMing: "/assets/img/favicons/read.png"
-Inspiration: "/assets/img/favicons/inspiration.png"
-TitD: "/assets/img/favicons/tribe8.png"
-Theory: "/assets/img/favicons/theory.png"
-TitD: "/assets/img/favicons/tribe8.png"
-Tools: "/assets/img/favicons/swiss-army-knife.png"
-TalesOfXadia: "/assets/img/favicons/tox.png"
+Cortex: "/assets/img/categories/cortex.png"
+Design: "/assets/img/categories/pencil-ruler.png"
+Discourse: "/assets/img/categories/conversation.png"
+General: "/assets/img/categories/rulebook.png"
+GMing: "/assets/img/categories/read.png"
+Inspiration: "/assets/img/categories/inspiration.png"
+TitD: "/assets/img/categories/tribe8.png"
+Theory: "/assets/img/categories/theory.png"
+TitD: "/assets/img/categories/tribe8.png"
+Tools: "/assets/img/categories/swiss-army-knife.png"
+TalesOfXadia: "/assets/img/categories/tox.png"
 
