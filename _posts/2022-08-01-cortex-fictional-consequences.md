@@ -3,7 +3,7 @@ title: Complications and Stress vs the Fiction
 description: Gauging how the fiction changes vs effect
 date: 2022-08-01 00:00:00-0700
 categories: [Cortex]
-tags: [complications, GMing]
+tags: [complications, gming]
 image:
   path: GettyImages-1363505291_tipping_point_Madeleine_Steinbach-scaled-e1651257974681.png
 media_subpath: /assets/img/posts/cortex-fictional-consequences

@@ -3,7 +3,7 @@ title: Story Beats Pt 2
 description: How do you use them?
 date: 2022-09-05 00:00:00-0700
 categories: [Tools]
-tags: [GMing]
+tags: [gming]
 image:
   path: images/dow-nodes.png
 media_subpath: /assets/img/posts/story-beats-pt2

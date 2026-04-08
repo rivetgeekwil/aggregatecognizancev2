@@ -3,7 +3,7 @@ title: Neon Angels Distinctions
 description: How Distinctions Are Set Up In Neon Angels
 date: 2024-06-27 00:00:00-0700
 categories: [Cortex]
-tags: [Neon Angels, DevBlog]
+tags: [neon angels, devblog]
 image:
   path: neonangels.png
 media_subpath: /assets/img/posts/neon-angels-distinctions

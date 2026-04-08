@@ -3,7 +3,7 @@ title: Story Beats
 description: What are they and how use them?
 date: 2022-09-02 00:00:00-0700
 categories: [Tools]
-tags: [GMing, Beats]
+tags: [gming, beats]
 image:
   path: beats.png
 media_subpath: /assets/img/posts/beat-charts

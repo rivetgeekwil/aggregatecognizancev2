@@ -3,7 +3,7 @@ title: The Fallen in Tribes in the Dark
 description: Crafting a Nuanced Narrative of Oppression and Resilience
 date: 2024-11-18 00:00:00-0700
 categories: [Tribes in the Dark]
-tags: [RPGBlogCarnival]
+tags: [rpgblogcarnival]
 image:
   path: fallen.png
 media_subpath: /assets/img/posts/titd-have-nots

@@ -3,7 +3,7 @@ title: Dissecting Distinctions
 description: Tips on using distinctions
 date: 2022-06-06 00:00:00-0700
 categories: [Cortex]
-tags: [Distinctions]
+tags: [distinctions]
 image:
   path: 1358194906_9b32588751_b.jpg
 media_subpath: /assets/img/posts/cortex-dissecting-distinctions

@@ -3,7 +3,7 @@ title: Tales of Xadia Role Templates
 description: Links to templates for playing Tales of Xadia on playrole.com
 date: 2024-07-03 00:00:00-0700
 categories: [TalesOfXadia]
-tags: [Cortex, VTT]
+tags: [cortex, vtt]
 image:
   path: tox.png
 media_subpath: /assets/img/posts/tox-role-templates

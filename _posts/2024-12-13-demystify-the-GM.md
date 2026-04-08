@@ -3,7 +3,7 @@ title: Demystify the GM
 description: ...and dethrone them
 date: 2024-12-13 00:00:00-0700
 categories: [Discourse]
-tags: [GMing]
+tags: [gming]
 image:
   path: grunklestan.png
 media_subpath: /assets/img/posts/demystify-the-GM
