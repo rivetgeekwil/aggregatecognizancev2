@@ -74,4 +74,4 @@ Whatever works for you, of course.
 
 [^1]: The line is consistently attributed to [Steve Allen](https://m.imdb.com/name/nm0006752/quotes/), but occasionally Orson Welles. I couldn't track down the exact origin from one of his books, a broadcast, or an interview, but the attribution itself is widespread.
 
-[^2]: Yes, I know, "RPGs are a conversation" is practically a PbtA bumper sticker at this point (along with "Play to find out"). But it's a bumper sticker because it's *true*, and because every time I try to find a better way to say it, I end up back at the same five words.
+[^2]: Yes, I know, "RPGs are a conversation" is practically a PbtA bumper sticker at this point (along with "Play to find out"). But it's a bumper sticker because it's *true*, and because every time I try to find a better way to say it, I end up back at the same four words.
