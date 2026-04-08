@@ -13,14 +13,14 @@ I'll level set up front: I have nothing against grid-based, miniatures-driven, t
 
 To get to the point, I'd really like to come up with an alternative to "theater of the mind."
 
-# Where the Term Came From
+## Where the Term Came From
 "Theater of the mind" wasn't coined for tabletop roleplaying. It comes from old entertainment industry jargon for the way a listener's imagination fills in everything a televised broadcast or movie can't show. The phrase is most famously attributed to the writer, comedian, and original *Tonight Show* host Steve Allen, who quipped, "Radio is the theater of the mind; television is the theater of the mindless."[^1] It's a great line, and it points at something real about radio. Radio is one-way. The audience receives a polished, scripted, scored, performed thing, and the "theater" happens privately, inside their heads, because there is literally no other place for it to happen.
 
 It's also not what we're doing at a game table.
 
 What happens at a game table is a *conversation*[^2]. Multiple people are talking, asking questions, offering details, and generally riffing. The shared fiction lives in the space *between* us, not inside any one person's skull. Calling that "theater of the mind" smuggles in a model where there's a performer (the GM) and an audience (the players) experiencing a private mental movie. That's not the activity. That's barely even adjacent to the activity.
 
-# The Baggage It Picked Up Along the Way
+## The Baggage It Picked Up Along the Way
 Even setting aside the etymological mismatch, the term has accumulated meaning by accretion, and most of what it's accumulated is *negative space*, defining the activity by what it *lacks*.
 
 Ask around and you'll hear "theater of the mind" used to mean:
@@ -38,7 +38,7 @@ That last one is where it really goes off the rails. I've seen people argue, sin
 
 This is a term doing nothing useful. It's a label whose entire job is to mark an absence, and which gets stricter and weirder the more seriously people take it.
 
-# It's Not The Outlier
+## It's Not The Outlier
 And that's the thing that bugs me the most: "theater of the mind" is framed as the *alternative*. It's thing you do _instead_ of the normal thing. But if you zoom out across the history of the hobby and the breadth of games being played right now, while the elaborate-tactical-grid setup is definitely a thing (just look at how much effort VTTs put into battlemap functionality with dynamic lighting and fog of war), it's not the _default_ by any stretch.
 
 Think about how many *PbtA* and *FitD* games, not to mention _Fate_, _Cortex_, and any number of games from the past 15-20 years expect you to play. None of them assume a battlemap, and few have action economies built around squares, grids, and zones of control. They're built around fictional positioning. Going even further back, *Vampire the Masquerade* had no rules for minatures or battle maps. _Call of Cthulhu_ has a MOV stat, but formal play on a map or grid has always been presented as an option, and not the default. The older editions of _Traveller_ largely presented positioning as range bands using markers. Even with older versions of _D&D_ (such as _BECMI_), we never used miniatures or battle maps, and I know of groups that ran whole campaigns without them.
@@ -47,7 +47,7 @@ Now, that isn't to say that grids and hexes never existed. Using maps to help cl
 
 I think we have it backwards.
 
-# What We Could Call the Other Thing Instead
+## What We Could Call the Other Thing Instead
 If we're going to give one of these styles a special name, it should be the one that has specific, *additive* features: a grid, measured movement, tokens or minis, line-of-sight rules, facing, zones of control, reach, etc. The thing that has the expansive dedicated vocabulary and requires dedicated equipment.
 
 Some options I'd float, in no particular order:
@@ -62,7 +62,7 @@ And what do we call the other thing, that's currently mislabeled as "theater of 
 
 Any of these would be an improvement over a phrase that means "the imaginative private experience of a radio listener," because that's not what's happening and it never was.
 
-# The Disclaimer at the End of the Post
+## The Disclaimer at the End of the Post
 
 None of this is an argument that you should stop using battlemaps, minis, or whatever VTT setup makes your Wednesday night game sing. If you love the tactical layer of pushing a token two squares to flank and it feels good to you and your table, then by all means, keep doing it (as if you needed my, or anyone's, permission). There's a reason that style of play has the following it does, and it's not my place to begrudge anyone the fun they're having with it.
 

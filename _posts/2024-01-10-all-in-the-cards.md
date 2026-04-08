@@ -12,7 +12,7 @@ media_subpath: /assets/img/posts/all-in-the-cards
 I first became enamored of using cards in roleplaying games with Torg's Drama Deck. Enough so that I tried to shoehorn them into other games such as Mekton or Cyberpunk 2020. Over time I became fonder of using them as oracles or for inspiration versus as randomizers during game play. There's a plethora of different card decks available now — and of course, I have a number of them. 
 
 
-# Session Zero Cards
+## Session Zero Cards
 There has been a proliferation of card decks tailored to collaborative character generation. They're great for drawing inspiration from while prepping and during play. Each deck has a different tone and focus for their prompts. This lets me choose the appropriate deck for the game I want to run. 
 
 
@@ -38,7 +38,7 @@ The [Session Zero System](https://www.mythicgroveproductions.com/the-session-zer
 
 The cards, of course, were my motivator for getting the system. The art on the 60 cards is beautiful, but they are more fantasy-oriented than Decuma's. The prompts are longer and contain more possible questions to answer, so they aren't included on the cards.
 
-# Other Decks
+## Other Decks
 I have several other decks intended for specific purposes, from helping to fill out character traits to introducing new elements to your game.
 
 ## Short Order Heroes

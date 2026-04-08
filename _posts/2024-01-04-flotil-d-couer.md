@@ -6,7 +6,7 @@ categories: [Tribes in the Dark]
 tags: [lore24]
 ---
 
-# Introduction
+## Introduction
 As my first entry for #lore24, I chose something for Tribe 8 (of course). This is a rather old write-up — I rediscovered it while plumbing the depths of old posts from my retired blog. Named the Flotil d'Couer (intentionally bastardized French), it coincidentally mirrors the Caravan of the Sail, which it predates. I've cleaned it up and made a few adjustments to present it as an alternate floating Caravan.
 
 > "I think that if any Tribal still living under the grace of the Fatimas can understand the plight of the Fallen, it is I. If anyone knows there is still justice in the Nation, it is I. Cursed to never set foot on my beloved Vimary again, I can only gaze on the wondrous lights of Bazaar and feel the distance between my home and my heart."
