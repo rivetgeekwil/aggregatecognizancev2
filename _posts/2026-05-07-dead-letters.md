@@ -7,7 +7,7 @@ tags: [podcast, theory, BitD]
 image:
   path: dead-letters.png
 media_subpath: /assets/img/posts/dead-letters
-published: false
+published: true
 ---
 
 The Dead Letters podcast recently did a careful, generous, and largely critical read of John Harper’s *Blades in the Dark*. Three experienced GMs — all designers, all veterans of the game, some proclaimed as gaming academics — sat down with the book cover-to-cover and came away frustrated. The setting was vibey but unrunnable. The mechanics didn't do what they set out to and could be cheesed. The play loop was rigid in actual practice, even though the book claimed to be "fiction first". They were honest about loving the game on first encounter yet finding it harder to love on close inspection, and they were honest about wondering whether they were just using it wrong.
